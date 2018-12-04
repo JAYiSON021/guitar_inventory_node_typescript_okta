@@ -1,1 +1,1 @@
-# guitar_inventory_node_typescript_okta
+# Guital Inventory Application Using Node and Typescript with OKTA Auth Integration
